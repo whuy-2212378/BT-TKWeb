@@ -1,0 +1,60 @@
+Câu hỏi 1. Trình duyệt web đầu tiên do ai tạo ra?
+
+A. Steve Jobs
+
+B. Tim Berners-Lee
+
+C. Bill Gates
+
+D. Chrome
+
+Câu hỏi 2. Có thể sử dụng trình duyệt web để?
+
+A. Xem nội dung trang web
+
+B. Hỗ trợ quá trình thiết kế giao diện
+
+C. Giúp tìm và sửa lỗi trong quá trình phát triển web
+
+D. Cả A, B, và C
+
+Câu hỏi 3. A web browser (commonly referred to as a browser or internet browser) is an _________ for accessing the World Wide Web.
+
+A. application software
+
+B. operating system
+
+C. library
+
+D. framework
+
+Câu hỏi 4. Mã nguồn trang web, khi trình duyệt nhận về từ web server có thể gồm?
+
+A. HTML, CSS, PHP, JavaScript
+
+B. HTML, CSS, C#
+
+C. CSS, C#, SQL
+
+D. CSS, JavaScript, HTML
+
+Câu hỏi 5. Một số kết quả trung gian được tạo ra khi trình duyệt hiển thị trang web là gì?
+
+A. DOM, CSSOM, Trang web kết quả, HTML
+
+B. CSS, DOM, Trang web kết quả, DOM Tree
+
+C. DOM tree, CSSOM, Trang web kết quả, Render tree
+
+D. CSSOM, DOM tree, OOP, Render tree
+
+Câu hỏi 6. CSSOM là viết tắt của?
+
+A. CSS Object Modern
+
+B. CSS Oriented Model
+
+C. CSS Object Mode
+
+D. CSS Object Model
+1b,2d,3a,4a,5c,6d

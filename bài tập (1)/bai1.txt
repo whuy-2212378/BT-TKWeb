@@ -1,0 +1,23 @@
+Bài 1. Liệt kê danh sách các ngôn ngữ lập trình, công cụ, kĩ năng, công nghệ mà bạn dự định học để theo nghề làm web.
+-Ngôn ngữ Lập Trình:
+HTML: Cấu trúc cơ bản của trang web.
+CSS: Thiết kế và định dạng giao diện trang web.
+JavaScript: Tương tác động và xử lý trên trình duyệt.
+TypeScript: Phiên bản mở rộng của JavaScript với kiểu dữ liệu tĩnh.
+Python: Hữu ích cho phát triển web phía máy chủ với các framework như Django hoặc Flask.
+-Công Cụ và Framework:
+React: Thư viện JavaScript cho phát triển giao diện người dùng.
+Angular: Framework JavaScript cho xây dựng ứng dụng web mạnh mẽ.
+Vue.js: Framework JavaScript dễ học và linh hoạt
+-Công Nghệ và Công Cụ Phát Triển:
+Git: Hệ thống kiểm soát phiên bản để quản lý mã nguồn.
+GitHub/GitLab/Bitbucket: Nền tảng lưu trữ và quản lý mã nguồn.
+Webpack: Công cụ đóng gói mô-đun JavaScript.
+-Kỹ Năng:
+Thiết kế giao diện người dùng (UI/UX): Kiến thức về thiết kế và trải nghiệm người dùng.
+Responsive Design: Thiết kế trang web để phù hợp với nhiều kích thước màn hình.
+SEO: Tối ưu hóa công cụ tìm kiếm để cải thiện khả năng tìm thấy trang web.
+Web Performance: Kỹ năng tối ưu hóa hiệu suất và tốc độ tải trang.
+-Các Kỹ Thuật Mới:
+Serverless Architecture: Công nghệ cho phép phát triển ứng dụng mà không cần quản lý máy chủ.
+Progressive Web Apps (PWA): Tạo ứng dụng web có trải nghiệm như ứng dụng di động.

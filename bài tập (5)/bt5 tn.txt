@@ -1,0 +1,32 @@
+1.1.8       Câu hỏi ôn tập
+Câu 1. Trong UTF-8, UTF là viết tắt của các từ nào?
+A. Uniform Text Format
+B. Unicode Transformation Format
+C. Uniform Transformation Format
+D. Unicode Text Format
+Câu 2. Metadata is "data that provides ________about other data". In other words, it is "data about data".
+A. format
+B. information
+C. structure
+D. standard
+Câu 3. Technically, an ________is the collection of start tag, its attributes, an end tag and everything in between. On the other hand an HTML tag (either opening or closing) is used to mark the start or end of an element.
+A. HTML attribute
+B. HTML tag
+C. HTML document
+D. HTML element
+Câu 4. Indicate whether each of these filenames is not an acceptable name for a web document.
+A. Sunflower.html
+B. index.htm
+C. Song_Lyrics.html
+D. cooking home page.html
+Câu 5. One of the following markup examples is incorrect. Which one?
+A. <img src = "birthday.jpg">
+B. <em>Congratulations!<em>
+C. <a href="file.html">linked text</a>
+D. <p>This is a new paragraph</p>
+Câu 6. Trang web https://validator.w3.org/ dùng để làm gì?
+A. Để hiển thị tài liệu của W3C
+B. Để chạy mã nguồn HTML và cho ra kết quả
+C. Để kiểm tra tính hợp lệ của mã HTML
+D. Để đăng ký tên miền cho trang web
+1b 2b 3d 4d 5b 6c
